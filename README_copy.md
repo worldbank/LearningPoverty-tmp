@@ -1,4 +1,14 @@
-# Learning Poverty
+# Learning Poverty  
+
+## Contents
+
+1. [Overview](#overview)
+2. [Data Availability](#data-availability)
+3. [Instructions for Replicators](#instructions-for-replicators)
+4. [List of Exhibits](#list-of-exhibits)
+5. [Requirements](#requirements)
+
+## Overview
 
 This repository contains the latest analysis of national Learning Poverty levels, as of Spring 2024. It also ontains the analysis presented in the paper _“Will Every Child Be Able to Read by 2030? Why Eliminating Learning Poverty Will Be Harder Than You Think, and What to Do About It.”_ [1].
 
@@ -7,6 +17,14 @@ As a significant contributor to human capital deficits, the learning crisis unde
 The new data show that **more than half of all children in World Bank client countries suffer from _learning poverty_** – the majority of them low- and middle-income countries. And progress in reducing _learning poverty_ is far too slow to meet the SDG aspirations: even if countries reduce their _learning poverty_ at the fastest rates we have seen so far in this century, the goal of ending it will not be attained by 2030.
 
 <sup>[1] Azevedo, J.P., and others. 2019. _“Will Every Child Be Able to Read by 2030? Why Eliminating Learning Poverty Will Be Harder Than You Think, and What to Do About It.”_ World Bank Policy Research Working Paper series. Washington, DC: World Bank.</sup>
+
+## Data Availability
+
+## Instructions for Replicators
+
+## List of Exhibits
+
+## Requirements
 
 ## Technical Notes
 
@@ -30,3 +48,4 @@ This Repository is maintained by the **EduAnalytics** team at the World Bank Edu
 The **EduAnalytics** team aims to provide internal and external clients timely access to high quality data, tools, and analytics that can be used to measure, monitor, and understand the education sector across regions.
 
 The team can be reached at [eduanalytics@worldbank.org](mailto:eduanalytics@worldbank.org).
+
